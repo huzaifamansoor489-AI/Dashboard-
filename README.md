@@ -8,7 +8,7 @@ This project showcases a high-end product dashboard built using clean UI/UX prin
 
 ## 🚀 Live Demo
 
-
+https://huzaifamansoor489-ai.github.io/Dashboard-/
 ---
 
 ## 🧠 Project Overview
